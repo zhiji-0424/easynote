@@ -1,1 +1,3 @@
-.deepseek/
+build/
+build_mingw/
+lib/webview-0.12.0

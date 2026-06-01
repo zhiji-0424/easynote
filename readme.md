@@ -6,7 +6,11 @@
 
 ## 构建方法
 
-1. 
+使用 MinGW GCC、CMake 构建。
+```
+cmake . -Bbuild -G"MinGW Makefiles"
+cmake --build build
+```
 
 ## license
 
@@ -14,4 +18,4 @@ MIT License - 详见 [LICENSE](LICENSE.txt) 文件。
 
 ## 第三方库
 
-- 
+- webview/webview
